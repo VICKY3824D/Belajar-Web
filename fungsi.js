@@ -9,3 +9,6 @@ console.log(multiply(2,2));
 
 const devide = (a,b) => a * b;
 console.log(devide(8,2));
+
+const mathSin = (number) => Math.sin(number);
+console.log(mathSin(10));
