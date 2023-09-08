@@ -1,5 +1,0 @@
-sin 0  = 0
-sin 30 = 1/2
-sin 45 = 1/2 akar 2
-sin 60 = 1/2 akar 3
-sin 90 = 1
